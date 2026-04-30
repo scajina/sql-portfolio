@@ -53,4 +53,4 @@ three legally required reporting series.
 - FY2015 denials/revocations reported as percentages, not absolute counts
 - State Department unable to provide investigation age data in FY2015
 
-![Executive Overview](assets/screenshots/page1_executive_overview.png)
+![Executive Overview](assets/page1_executive_overview.png)
